@@ -1,1 +1,42 @@
 Food preparation instructions go here ...
+. . . This program teaches someone to make a ham sandwich
+
+// enter will be the input to move on to the next step
+// Since this is a step by step that is to be interpeted by a human the steps for how to make the sandwich arent going to be as specific as its assumed the person making the sandwhich has some understanding
+
+Function Main
+	Output display prompt for user to began the step by step guide
+	Input enter to agree to continue 
+
+	Output "open the fridge"
+	Output display prompt for user to began next step 
+	Input enter to agree to continue
+
+	Output "get ham from the inside the fridge"
+	Output display prompt for user to began next step 
+	Input enter to agree to continue
+
+	Output "open the pantry"
+	Output display prompt for user to began next step 
+	Input enter to agree to continue
+
+	Output "Grab bread from pantry"
+	Output display prompt for user to began next step 
+	Input enter to agree to continue
+
+	Output "remove two slices of bread and place both slices next to each other horizontality"
+	Output display prompt for user to began next step 
+	Input enter to agree to continue
+
+	Output "remove two slices of ham from the package and place both on top of each other on one slice of bread"
+	Output display prompt for user to began next step 
+	Input enter to agree to continue
+
+	Output "put the slice of bread without ham on top of the slice of bread with ham"
+	Output display prompt for user to began next step 
+	Input enter to agree to continue
+
+	Output "put away the ham and bread" (leave time to read)
+	
+	Output "Enjoy your sandwich"
+End
