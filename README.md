@@ -6,3 +6,4 @@ I am taking CIS106 as a prerequisite for future computer science classes as I in
 
 ## Assignment 2
 
+This week I took my first steps to doing some type of code and using the software Flowgorithm and Thonny for the first time. I was able to create code that says Hello World! and then asks the user for their age and if they are of at least 18 it will ask them for their name and say hello to that name. It was more then what the assignment asked for, but to me I wanted to mess around with Flowgorithm a little more and see if I could do something with a if then statement instead of just what its your name. Overall I think it was a good week for getting introduced to software.
